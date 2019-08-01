@@ -16,7 +16,11 @@ N-N , O-O, Zn-Zn,N-O,N-Zn,O-Zn
 
 If the value is not known, use blank insted. The file must alphabettically be ordered based on the variable names.
 
-* nFile.txt: the  x-axis values that you are interested in, i.e., Tempareture, size, N content (%)
+* nFile.txt: the  x-axis values that you are interested in, i.e., Tempareture, size, N content (%).
+
+Example nFile.txt file:
+
+0,100,200,300,400,500,600,700,800,900,1000
  
 The file must be numeracally ordered
 
