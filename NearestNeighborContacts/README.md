@@ -7,13 +7,15 @@
 5. nearest.neighbor.contacts("elements.txt", "nFile.txt")
 
 
-## Files (What is need to run it):
+## Files:
+
+Create elements.txt and nFile.txt files as described below:
 
 * elements.txt: Known theoritical values. Example of the file is given below:
 
-                                     N-N , O-O, Zn-Zn,N-O,N-Zn,O-Zn
+                                         N-N , O-O,  Zn-Zn, N-O, N-Zn, O-Zn
 
-                                        1.098, 1.208,4.19,1.154,    ,  
+                                        1.098, 1.208, 4.19, 1.154,    ,  
 
 If the value is not known, use blank insted. The file must alphabettically be ordered based on the variable names.
 
