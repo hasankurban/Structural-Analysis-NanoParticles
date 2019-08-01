@@ -1,7 +1,10 @@
 # How to run Nearest Neighbor Contacts program:
 
-* source("NearestNeighborContacts.R")
-* nearest.neighbor.contacts("elements.txt", "nFile.txt")
+1. Download NearestNeighborContacts.R and create a folder and put the code in the folder.
+2. In the same folder create another data folder and name it "data" and put all data data sets in there.
+3. Open the NearestNeighborContacts.R program and make sure that setwd which set the working directory is correctly settled. 
+4. source("NearestNeighborContacts.R")
+5. nearest.neighbor.contacts("elements.txt", "nFile.txt")
 
 
 ## Files (What is need to run it):
@@ -26,4 +29,4 @@ The file must be numeracally ordered
 
 ## Notes:
 
-The programs reads all the .txt files and calculates nearest neighbor contacts for each element.
+The program reads all the .txt files and calculates nearest neighbor contacts for each element. Our program currently supports .txt files.
