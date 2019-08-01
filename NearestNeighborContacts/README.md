@@ -9,17 +9,15 @@
 
 ## Files (What is need to run it):
 
-* The directory where all different geometrical data files located should be updated in the code.
-
 * elements.txt: Known theoritical values. Example of the file is given below:
 
-                            N-N , O-O, Zn-Zn,N-O,N-Zn,O-Zn
+                                     N-N , O-O, Zn-Zn,N-O,N-Zn,O-Zn
 
-                           1.098, 1.208,4.19,1.154,    ,  
+                                        1.098, 1.208,4.19,1.154,    ,  
 
 If the value is not known, use blank insted. The file must alphabettically be ordered based on the variable names.
 
-* nFile.txt: the  x-axis values that you are interested in, i.e., Tempareture, size, N content (%). The file must be numeracally ordered
+* nFile.txt: the  x-axis values that you are interested in, i.e., Tempareture, size, N content (%). The file must be numeracally ordered.
 
                                       Example nFile.txt file:
 
