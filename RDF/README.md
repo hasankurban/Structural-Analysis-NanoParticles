@@ -1,4 +1,4 @@
-# How to run Radial Distribution Function (RDF) program:
+# How to run Radial Distribution Function (RDF):
 
 1. Download rdf folder
 2. In the same folder create another folder and name it "data" and put all data data sets in there.
