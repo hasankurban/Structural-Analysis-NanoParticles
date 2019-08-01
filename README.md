@@ -1,7 +1,7 @@
-# Structural and Geometrical Analysis of Nanoparticles (NPs)
+# Structural and Geometrical Analysis of Nanoparticles 
 
 
-In this project, we have implemented several functions that can ve used to analyze structural and geometrical analysis of nanoparticles. Our library currently includes the following functions and new function will be added. Please follow this page for the updates.
+In this project, we have implemented several functions that can be used to analyze structural and geometrical analysis of nanoparticles. Our library currently includes the following functions and new function will be added. Please follow this page for the updates.
 
 - Order Parameter
 - Nearest Neighbor Contacts
