@@ -2,7 +2,7 @@
 
 1. Download rdf folder
 2. In the same folder create another folder and name it "data" and put all data data sets in there.
-3. Open the rdf.R program and make sure that setwd which set the working directory is correctly settled (Lines 4 and 8). 
+3. Open the rdf.R program and make sure that setwd which set the working directory is correctly settled (Lines 4 & 8). 
 4. source("rdf.R")
 5. rdf()
 
