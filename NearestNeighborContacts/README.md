@@ -1,8 +1,8 @@
 # How to run Nearest Neighbor Contacts program:
 
-1. Download NearestNeighborContacts.R and create a folder and put the code in the folder.
-2. In the same folder create another data folder and name it "data" and put all data data sets in there.
-3. Open the NearestNeighborContacts.R program and make sure that setwd which set the working directory is correctly settled. 
+1. Download NearestNeighborContacts.R and create a folder and put the file in the folder.
+2. In the same folder create another folder and name it "data" and put all data data sets in there.
+3. Open the NearestNeighborContacts.R program and make sure that setwd which set the working directory is correctly settled (Lines 15 and 17). 
 4. source("NearestNeighborContacts.R")
 5. nearest.neighbor.contacts("elements.txt", "nFile.txt")
 
