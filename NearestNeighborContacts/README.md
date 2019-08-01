@@ -29,4 +29,4 @@ The file must be numeracally ordered
 
 ## Notes:
 
-The program reads all the .txt files and calculates nearest neighbor contacts for each element. Our program currently supports .txt files.
+The program reads all the .txt files and calculates nearest neighbor contacts for each element. Our program currently supports only .txt files.
