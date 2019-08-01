@@ -1,7 +1,7 @@
-Structural and Geometircal Analysis of Nanoparticles (NPs)
+#Structural and Geometircal Analysis of Nanoparticles (NPs)
 
 
-In this project, we have implemented:
+##In this project, we have implemented:
 
 - Order Parameter
 - Nearest Neighbor Contacts
