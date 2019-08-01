@@ -6,7 +6,7 @@
 
 Files (What is need to run it):
 
-* The directory where all different geometrical data files located in the codes should be update.
+* The directory where all different geometrical data files located should be updated in the code.
 
 * elements.txt: Known theoritical values. Example of the file is given below:
 
