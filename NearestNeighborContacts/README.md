@@ -1,4 +1,4 @@
-# HOW to run Nearest Neighbor Contacts program:
+# How to run Nearest Neighbor Contacts program:
 
 * source("NearestNeighborContacts.R")
 * nearest.neighbor.contacts("elements.txt", "nFile.txt")
