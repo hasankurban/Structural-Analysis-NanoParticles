@@ -9,7 +9,7 @@ In this project, we have implemented several functions that can be used to analy
 
 These programs include high resolution visualizations to plot data and the paper introducing the software is currently under-review:
 
- ### Hasan Kurban, Mustafa Kurban \& Mehmet  Dalkilic: Density-functional tight-binding approach for the structural analysis and electronic structure of copper hydride metallic nanoparticles (under-review)
+ ### Kurban, Hasan, Mustafa Kurban, and Mehmet Dalkılıç. "Density-functional tight-binding approach for the structural analysis and electronic structure of copper hydride metallic nanoparticles." Materials Today Communications (2019): 100648
 
 ## Authors
 Hasan Kurban, Mustafa Kurban, Mehmet M. Dalkilic
