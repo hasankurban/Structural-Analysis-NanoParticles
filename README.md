@@ -7,7 +7,7 @@ In this project, we have implemented several functions that can be used to analy
 - Nearest Neighbor Contacts
 - Radial Distribution Functions (RDF)
 
-These programs include high resolution visualizations to plot data and the paper introducing the software can ben found below:
+These programs include high resolution visualizations to plot data and the paper introducing the software can be found below:
 
 
 [Hasan Kurban, Mustafa Kurban, and Mehmet Dalkılıç. "Density-functional tight-binding approach for the structural analysis and electronic structure of copper hydride metallic nanoparticles." Materials Today Communications (2019): 100648](https://www.sciencedirect.com/science/article/pii/S2352492819307469)
